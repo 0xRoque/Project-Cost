@@ -1,0 +1,68 @@
+{
+  "projects": [
+    {
+      "id": "8fc3",
+      "name": "projeto 1",
+      "budget": "4100",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "Meu novo serviço",
+          "cost": "100",
+          "description": "faz isto",
+          "id": "9a5726bb-f4e6-4ffb-b7eb-f14768f71533"
+        },
+        {
+          "name": "Meu novo serviço 2",
+          "cost": "100",
+          "description": "faz isto",
+          "id": "cf62ec3d-3b51-405b-afe9-38648a24a4ff"
+        }
+      ]
+    },
+    {
+      "id": "f6bf",
+      "name": "projeto 2",
+      "budget": "5100",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "364d",
+      "name": "teste 5 (atualizado)",
+      "budget": "3500",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planeamento"
+    }
+  ]
+}
